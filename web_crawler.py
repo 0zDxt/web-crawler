@@ -1,5 +1,5 @@
 # Script : web_crawler.py
-# Author : mxn
+# Author : 0zDxt
 
 import argparse, requests, sys, re, shutil
 from rich.console import Console

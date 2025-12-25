@@ -10,10 +10,10 @@
 
 
 # Web Crawler
-A Python script to crawl websites and track internal/external links
+A very simple Python script to crawl websites and track internal/external links
+This was made during a python training course
 
-## Description
-This script uses 'requests' to fetch wab pages and 're' for links extraction. It supports a command line argument to specify the domain to crawl.
+The script uses 'requests' to fetch wab pages and 're' for links extraction. It supports a command line argument to specify the domain to crawl.
 
 ## Installation
 1. Clone the repository
@@ -33,3 +33,5 @@ Crawled URLs:
 List of visited internal links
 External URLs:
 List on links pointing outside the domain
+
+(real nerds listen to UwU_underground)
